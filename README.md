@@ -11,7 +11,7 @@ Este repositório contém um exercício prático de HTML e CSS que explora a est
 ## 🚀 Sobre o Projeto
 
 O objetivo principal deste projeto foi aplicar e entender:
-O uso de diferentes seletores CSS e os variados atributos necessários para atingir o visual estabelecido como objetivo do projeto, o codigo original de HTML foi desenvolvido por mim e o objetivo era clonar o layout antigo do Youtube usando CSS deixando a página de acordo com o arquivo do FIGMA fornecido pelo curso. Além disso tomei a liberdade de aplicar algumas estilizações, como animação de `hover` nos botões da parte superior da página e no botão 'Increva-se', dentre outras estilizações menores como o texto na barra de pesquisa, e o botao do logo do Youtube que redireciona para a página inicial do site.
+O uso de diferentes seletores CSS e os variados atributos necessários para atingir o visual estabelecido como objetivo do projeto, o código original de HTML foi desenvolvido por mim e o objetivo era clonar o layout antigo do Youtube usando CSS deixando a página de acordo com o arquivo do FIGMA fornecido pelo curso. Além disso tomei a liberdade de aplicar algumas estilizações, como animação de `hover` nos botões da parte superior da página e no botão 'Increva-se', dentre outras estilizações menores como o texto na barra de pesquisa, e o botao do logo do Youtube que redireciona para a página inicial do site.
 
 ---
 
@@ -27,7 +27,7 @@ Para ver o projeto em funcionamento, siga estes passos simples:
 
 ## 🤝 Contribuição
 
-Sinta-se à vontade para explorar o código, sugerir melhorias ou tirar dúvidas. Este projeto é um ponto de partida para o aprendizado de HTML!
+Sinta-se à vontade para explorar o código, sugerir melhorias ou tirar dúvidas. Este projeto é um ponto de partida para o aprendizado de desenvolvimento web!
 
 ---
 
